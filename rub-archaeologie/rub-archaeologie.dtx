@@ -28,7 +28,7 @@
 %<class>\NeedsTeXFormat{LaTeX2e}[2022-06-01]
 %<class>\ProvidesClass{rub-archaeologie}
 %<*class>
-    [2025-01-30 v0.0.0 RUB Archaeology class]
+    [2025-01-30 v0.1.0 RUB Archaeology class]
 %</class>
 %<*driver>
 \documentclass{ltxdoc}
@@ -49,7 +49,7 @@
 % \fi
 %
 %^^A Document general changes here
-% \changes{unreleased}{unreleased}{Initial version}
+% \changes{v0.1.0}{2025-01-30}{Initial version}
 %
 % \GetFileInfo{\jobname.dtx}
 %
@@ -60,6 +60,9 @@
 % \DoNotIndex{\title,\author,\tableofcontents}
 % \DoNotIndex{\LaTeX,\verb}
 % \DoNotIndex{\texorpdfstring}
+%
+% \DoNotIndex{\@rubarchaeo@biblatexOptions}
+% \DoNotIndex{\@rubarchaeo@parskiptrue}
 %
 %^^A define helper commands for consistent typesetting in the documentation
 % \DeclareDocumentCommand\email{m}{\href{mailto:#1}{\nolinkurl{#1}}}
@@ -103,6 +106,70 @@
 %<*class>
 % \fi
 %
+% \subsection{Class options}\label{sec:implementation:class-options}
+% \iffalse
+%% Class options
+% \fi
+% The class options are defined as keyval options for great flexibility.
+% They toggle some of the class features or customize their behavior.
+%
+% \begin{option}{biblatex}
+% The \optn{biblatex} option stores its content in a macro until it is later passed along to the \pkg{biblatex} package after specifying the default options (see \autoref{sec:implementation:package-loading:bibliography}).
+% Therefore, options provided with this key overwrite the ones set per default by this class.
+%    \begin{macrocode}
+\DeclareKeys[rubarchaeo]{
+    biblatex.store = \@rubarchaeo@biblatexOptions,
+    biblatex.usage = load
+}
+%    \end{macrocode}
+% \end{option}
+%
+% \begin{option}{hyperref}
+% The \optn{hyperref} option passes its content along immediately, to be used as options when the \pkg{hyperref} package is loaded.
+% This will \textbf{not} overwrite default options set by this class as they are set after loading the package using \verb|\hypersetup|\marg{options} (see also \autoref{sec:implementation:package-loading:others}).
+%    \begin{macrocode}
+\DeclareKeys[rubarchaeo]{
+    hyperref.code  = \PassOptionsToPackage{#1}{hyperref},
+    hyperref.usage = load
+}
+%    \end{macrocode}
+% \end{option}
+%
+% \paragraph{Paragraph indentation}
+% First we define a TeX switch which is later used (see \autoref{sec:implementation:package-loading}) to check wether to load the \pkg{parskip} package to remove the indentation at the start of paragraphs.
+% \iffalse
+%% TeX switch to decide wether to load the parskip package
+% \fi
+%    \begin{macrocode}
+\newif\if@rubarchaeo@parskip
+%    \end{macrocode}
+% By default we set the switch to true, so the parskip package is normally loaded when using this class.
+%    \begin{macrocode}
+\@rubarchaeo@parskiptrue
+%    \end{macrocode}
+% \begin{option}{parskip}
+% Then we declare the key so the switch can be turned on and off by the user in the class options.
+%    \begin{macrocode}
+\DeclareKeys[rubarchaeo]{
+    parskip.if      = @rubarchaeo@parskip,
+    parskip.usage   = load,
+%    \end{macrocode}
+% \end{option}
+% \begin{option}{noparskip}
+% Finally we define the complementary key for easier disabling of the parskip feature.
+%    \begin{macrocode}
+    noparskip.ifnot = @rubarchaeo@parskip,
+    noparskip.usage = load
+}
+%    \end{macrocode}
+% \end{option}
+%
+% \paragraph{Process options}
+% After defining the class options it is necessary to process them too in order to actually make use of them.
+%    \begin{macrocode}
+\ProcessKeyOptions[rubarchaeo]
+%    \end{macrocode}
+%
 % \subsection{Base class}\label{sec:implementation:base-class}
 % \DescribeClass{article}
 % The \pkg{\jobname} class is based on the \pkg{article} class.
@@ -112,6 +179,100 @@
 % \fi
 %    \begin{macrocode}
 \LoadClass[12pt]{article}
+%    \end{macrocode}
+%
+% \subsection{Loading packages}\label{sec:implementation:package-loading}
+%
+% \subsubsection{Bibliography}\label{sec:implementation:package-loading:bibliography}
+%
+% \DescribePackage{biblatex}
+% To support bibliography facilities out of the box, the \pkg{biblatex} package is loaded. To customize the behavior, a few options are passed to the package.
+% \iffalse
+%% biblatex options
+% \fi
+%    \begin{macrocode}
+\PassOptionsToPackage{
+%    \end{macrocode}
+%
+% \DescribeOption[biblatex]{backend}
+% Defines the backend program. To use all features of \pkg{biblatex}, the \prog{biber} backend must be used.
+%    \begin{macrocode}
+    backend=biber,
+%    \end{macrocode}
+%
+% \DescribeOption[biblatex]{autocite}
+% Defines the behavior of the \cs{autocite} command, which in this case will behave like the \cs{footcite} command and will print citations in the footnotes instead of directly in the text.
+%    \begin{macrocode}
+    autocite=footnote,
+%    \end{macrocode}
+%
+% \DescribeOption[biblatex]{autopunct}
+% Controls whether the citation commands scan ahead for punctuation marks and move the citation after the punctuation.
+%    \begin{macrocode}
+    autopunct=true
+}{biblatex}
+%    \end{macrocode}
+%
+% \DescribePackage{archaeologie}
+% By default we use the biblatex style of the \pkg{archaeologie} package\footnote{The package and its documentation can be found here: \url{https://ctan.org/pkg/archaeologie}}.
+%    \begin{macrocode}
+\PassOptionsToPackage{
+%    \end{macrocode}
+%
+% \DescribeOption[biblatex]{style}
+% The \optn{archaelogie} style provided by the \pkg{archaeologie} package claims to implement the citation style of the german archaeological institute (Deutsches Archäologisches Institut, short: DAI).
+%    \begin{macrocode}
+    style=archaeologie,
+%    \end{macrocode}
+%
+% Now we end the cs{PassOptionsToPackage} command:
+%    \begin{macrocode}
+}{biblatex}
+%    \end{macrocode}
+%
+% After specifying the default options, we pass along the ones that might have been set in the class options.
+% \iffalse
+%% pass biblatex class options along
+% \fi
+%    \begin{macrocode}
+\PassOptionsToPackage{\@rubarchaeo@biblatexOptions}{biblatex}
+%    \end{macrocode}
+%
+% And finally the \pkg{biblatex} package is loaded.
+% \iffalse
+%% load biblatex
+% \fi
+%    \begin{macrocode}
+\RequirePackage{biblatex}
+%    \end{macrocode}
+%
+%
+% \subsubsection{Document format}
+%
+% \DescribePackage{parskip}
+% To avoid indentation at the start of paragraphs, the \pkg{parskip} package is loaded if the corresponding switch is set to true. See also \autoref{sec:implementation:class-options}.
+% \iffalse
+%% Avoid paragraph indentation
+% \fi
+%    \begin{macrocode}
+\if@rubarchaeo@parskip
+    \RequirePackage{parskip}
+\fi
+%    \end{macrocode}
+%
+% \subsubsection{Other useful packages}\label{sec:implementation:package-loading:others}
+%
+\DescribePackage{hyperref}
+% Makes links and references clickable.
+% \iffalse
+%% Hyperref
+% \fi
+%    \begin{macrocode}
+\RequirePackage{hyperref}
+%    \end{macrocode}
+% By default, we configure it to not highlight clickable elements.
+%    \begin{macrocode}
+\hypersetup{hidelinks}
 %    \end{macrocode}
 %
 % \iffalse

@@ -1,0 +1,70 @@
+name: Automatically create release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+run-name: Automatic release ${{ github.ref_name }}
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    container: registry.gitlab.com/islandoftex/images/texlive:TL2024-2024-05-19-full
+    permissions:
+      contents: write
+    steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      # Set up Git as github-actions bot
+      - name: Set up Git
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+      # Get new version
+      - name: Get new version number
+        id: get_new_version
+        uses: ./.github/actions/get-release-version
+        with:
+          file: ./rub-archaeologie/rub-archaeologie.dtx
+          class-name: rub-archaeologie
+
+      # Check that the version number in the code and the one of the git tag match
+      - name: Check version number
+        run: |
+          if [ "${{ github.ref_name }}" != "v${{ steps.get_new_version.outputs.version }}" ]
+          then
+            echo "::error title={Version numbers don't match!}::{The version number of the git tag '${{ github.ref_name }}' does not match the one in the code 'v${{ steps.get_new_version.outputs.version }}'.}"
+            exit 1
+          else
+            echo "::notice title={Version numbers match}::{The version number check was succesful. The version number of the git tag '${{ github.ref_name }}' does match the one in the code 'v${{ steps.get_new_version.outputs.version }}'.}"
+          fi
+
+      # Run automated testing
+      # extract files from dtx
+      # build documentation
+      # and package a .zip for ctan
+      - name: l3build test and ctan packaging
+        run: l3build ctan -q -H
+        working-directory: rub-archaeologie
+
+      # Extract release notes from CHANGELOG.md
+      - name: Extract release notes
+        id: extract_release_notes
+        run: sed -n '/^## \[v${{ steps.get_new_version.outputs.version }}\]/,/^## \[v[0-9]\+\.[0-9]\+\.[0-9]\+\]/ { /^## \[v[0-9]\+\.[0-9]\+\.[0-9]\+\]/ !p; }' CHANGELOG.md | tee release_notes.md
+
+      # Create a GitHub release
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Release ${{ steps.get_new_version.outputs.version }}
+          body_path: ./release_notes.md
+          files: |
+            rub-archaeologie/build/unpacked/rub-archaeologie.cls
+            rub-archaeologie/build/distrib/**/*.zip
+            rub-archaeologie/build/doc/*.pdf
