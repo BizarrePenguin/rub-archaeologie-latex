@@ -1,0 +1,45 @@
+{
+    "name": "rub-archaeologie-latex-development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "containerEnv": {
+        "SHELL": "/bin/bash"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                // The number of spaces a tab is equal to. This setting is overridden
+                // based on the file contents when `editor.detectIndentation` is true.
+                "editor.tabSize": 4,
+                // Insert spaces when pressing Tab. This setting is overriden
+                // based on the file contents when `editor.detectIndentation` is true.
+                "editor.insertSpaces": true,
+                "latex-workshop.latex.tools": [
+                    {
+                        "name": "l3build doc",
+                        "command": "l3build",
+                        "args": [
+                            "doc"
+                        ]
+                    }
+                ],
+                "latex-workshop.latex.recipes": [
+                    {
+                        "name": "l3build doc",
+                        "tools": [
+                            "l3build doc"
+                        ]
+                    }
+                ]
+            },
+            "extensions": [
+                "github.vscode-github-actions",
+                "GitHub.vscode-pull-request-github",
+                "Gruntfuggly.todo-tree",
+                "James-Yu.latex-workshop",
+                "mhutchie.git-graph"
+            ]
+        }
+    }
+}
