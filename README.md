@@ -12,11 +12,11 @@ Just type
 ```
 to use the class in your LaTeX document.
 
-The full documentation of the latest version can be found on the [GitHub release](https://github.com/rub-kgi/rub-archaeologie-latex/releases) page in the release assets as `rub-archaeologie.pdf`.
+The full documentation of the latest version can be found on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page in the release assets as `rub-archaeologie.pdf`.
 
 ### Installation
 
-If you want to manually install any version of this class, the simplest solution would be to download the `rub-archaeologie.cls` file from the release assets on the [GitHub release](https://github.com/rub-kgi/rub-archaeologie-latex/releases) page and place it in the same folder as your document.
+If you want to manually install any version of this class, the simplest solution would be to download the `rub-archaeologie.cls` file from the release assets on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page and place it in the same folder as your document.
 
 A more advanced manual installation would be to take the `rub-archaeologie.tds.zip`, unpack it and place it in the texmf tree to get a full installation including documentation and example files.
 
@@ -30,4 +30,4 @@ This work is maintained by Joran Schneyer [joran.schneyer@ruhr-uni-bochum.de](ma
 
 You are very welcome to contribute to this project.
 
-The easiest way to contribute (even without technical knowledge) is to go to the [Issues](https://github.com/rub-kgi/rub-archaeologie-latex/issues) tab of this repo and create a new issue in which you describe a feature you would like to see implemented or a bug or an error in the current implementation.
+The easiest way to contribute (even without technical knowledge) is to go to the [Issues](https://github.com/BizarrePenguin/rub-archaeologie-latex/issues) tab of this repo and create a new issue in which you describe a feature you would like to see implemented or a bug or an error in the current implementation.

@@ -15,8 +15,8 @@ uploadconfig = {
     license = "lppl1.3c",
     summary = "A class for the Institute of Archaeological Studies at Ruhr University Bochum",
     ctanPath = "/macros/latex/contrib/rub-archaeologie",
-    repository = "https://github.com/rub-kgi/rub-archaeologie-latex",
-    bugtracker = "https://github.com/rub-kgi/rub-archaeologie-latex/issues",
+    repository = "https://github.com/BizarrePenguin/rub-archaeologie-latex",
+    bugtracker = "https://github.com/BizarrePenguin/rub-archaeologie-latex/issues",
     update = true,
     note = [[Uploaded automatically by l3build...]]
 }
