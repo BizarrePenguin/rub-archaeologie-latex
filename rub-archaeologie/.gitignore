@@ -1,0 +1,6 @@
+build
+
+rub-archaeologie-ctan.curlopt
+
+# ignore generated zip files
+*.zip
