@@ -1,0 +1,122 @@
+% \iffalse meta-comment
+%
+% File: rub-archaeologie.dtx
+% Copyright (C) 2024 by Joran Schneyer <joran.schneyer@ruhr-uni-bochum.de>
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3c
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   https://www.latex-project.org/lppl.txt
+% and version 1.3c or later is part of all distributions of LaTeX
+% version 2008 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Joran Schneyer <joran.schneyer@ruhr-uni-bochum.de>.
+%
+% This work consists of the files rub-archaeologie.dtx
+%                                 rub-archaeologie.ins
+%           and the derived files rub-archaeologie.cls
+%
+% \fi
+
+% \iffalse
+%<*driver>
+\ProvidesFile{rub-archaeologie.dtx}
+%</driver>
+%<class>\NeedsTeXFormat{LaTeX2e}[2022-06-01]
+%<class>\ProvidesClass{rub-archaeologie}
+%<*class>
+    [2025-01-30 v0.0.0 RUB Archaeology class]
+%</class>
+%<*driver>
+\documentclass{ltxdoc}
+
+%^^A Load packages needed for the documentation
+\usepackage{dtxdescribe}
+\fvset{commandchars={|()}}
+
+\EnableCrossrefs
+\CodelineIndex
+\RecordChanges
+\begin{document}
+    \DocInput{\jobname.dtx}
+    \PrintChanges
+    \PrintIndex
+\end{document}
+%</driver>
+% \fi
+%
+%^^A Document general changes here
+% \changes{unreleased}{unreleased}{Initial version}
+%
+% \GetFileInfo{\jobname.dtx}
+%
+% \DoNotIndex{\newcommand,\newenvironment}
+% \DoNotIndex{\begin,\end}
+% \DoNotIndex{\fi}
+% \DoNotIndex{\section,\subsection,\subsubsection}
+% \DoNotIndex{\title,\author,\tableofcontents}
+% \DoNotIndex{\LaTeX,\verb}
+% \DoNotIndex{\texorpdfstring}
+%
+%^^A define helper commands for consistent typesetting in the documentation
+% \DeclareDocumentCommand\email{m}{\href{mailto:#1}{\nolinkurl{#1}}}
+%
+% \title{The \pkg{\jobname} class^^A
+%   \thanks{This document corresponds to \pkg{\jobname}~\fileversion,
+%     dated \filedate.}}
+% \author{\copyright{} Joran Schneyer^^A
+%   \thanks{Released under the LaTeX Project Public License v1.3c or later.^^A
+%   \\ See \url{https://www.latex-project.org/lppl.txt}}^^A
+%   \\ \email{joran.schneyer@ruhr-uni-bochum.de}}
+% \date{\filedate}
+%
+% \maketitle
+% \tableofcontents
+%
+% \section{Introduction}\label{sec:introduction}
+%
+% This \LaTeX{} class aims to implement the guidelines on scientific writing of the Institute of Archaeological Studies at Ruhr University Bochum.^^A
+% \footnote{Guidelines version 3.0 (November 2024) \url{https://www.archwiss.ruhr-uni-bochum.de/aw/mam/wissenschaftlicher_reader_studierende_standnov2024.pdf}}
+%
+% Note, that at this point this is not an official class made by anyone at the institute but rather a free-time hobby project of me, Joran, who knows \LaTeX{} from studying Electrical Engineering and just wants to help out some friends studying archaeology.
+%
+% You can find the latest releases and the development of this project at GitHub: \url{https://github.com/BizarrePenguin/rub-archeaologie-latex}
+%
+% \section{Usage}\label{sec:usage}
+%
+% To use this class, simply specify it as the document class.^^A
+% \begin{sourceverb}
+% \documentclass{rub-archaeologie}
+% \end{sourceverb}
+%
+% \StopEventually{}
+%
+% \clearpage
+% \appendix
+%
+% \section{Implementation}\label{sec:implementation}
+%
+% \iffalse
+%<*class>
+% \fi
+%
+% \subsection{Base class}\label{sec:implementation:base-class}
+% \DescribeClass{article}
+% The \pkg{\jobname} class is based on the \pkg{article} class.
+% When loading the class we specify \texttt{12pt} as the base font size, as required by the guidelines.
+% \iffalse
+%% Load base class with 12pt base font size
+% \fi
+%    \begin{macrocode}
+\LoadClass[12pt]{article}
+%    \end{macrocode}
+%
+% \iffalse
+
+%</class>
+% \fi
+%
+% \Finale
