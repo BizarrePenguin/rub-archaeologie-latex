@@ -1,0 +1,46 @@
+name: Automated testing and building
+
+on:
+  push:
+    paths:
+      - rub-archaeologie/*.*
+    tags-ignore:
+      - '**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - rub-archaeologie/*.*
+  workflow_dispatch:
+
+jobs:
+  l3build:
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
+    runs-on: ubuntu-latest
+    container: registry.gitlab.com/islandoftex/images/texlive:TL2024-2024-05-19-full
+    steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      # Run automated testing
+      # extract files from dtx
+      # and build documentation
+      - name: Run l3build
+        run: l3build doc -q -H
+        working-directory: ./rub-archaeologie
+
+      # Upload artifacts
+      # Upload documentation
+      - name: Upload documentation
+        uses: actions/upload-artifact@v4
+        with:
+          name: rub-archaeologie-manual.pdf
+          path: rub-archaeologie/rub-archaeologie.pdf
+      # Upload extracted class
+      - name: Upload class
+        uses: actions/upload-artifact@v4
+        with:
+          name: rub-archaeologie.cls
+          path: rub-archaeologie/build/unpacked/rub-archaeologie.cls
+            
