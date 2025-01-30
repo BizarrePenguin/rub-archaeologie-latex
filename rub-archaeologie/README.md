@@ -1,6 +1,6 @@
-# `rub-archaeologie` - Class for the archaeology institute at Ruhr University Bochum
+# `rub-archaeologie` - Class for the Institute of Archaeological Studies at Ruhr University Bochum
 
-A LaTeX class implementing the guidelines on scientific writing of the archaeology institute at Ruhr University Bochum.
+A LaTeX class implementing the guidelines on scientific writing of the Institute of Archaeological Studies at Ruhr University Bochum.
 
 ## Author
 
