@@ -249,6 +249,21 @@
 %
 % \subsubsection{Document format}
 %
+% \DescribePackage{geometry}
+% \changes{unreleased}{unreleased}{Use \pkg{geometry} package for paper size and margins}^^A
+% Used to set page size and margins.
+% The guidelines require margins of 2.5cm at the top and left sides, 2cm at the bottom as well as 5cm on the right side.
+% Furthermore A4 paper is the standard page size here.
+% \iffalse
+%% Set a4 paper size and margins
+% \fi
+%    \begin{macrocode}
+\RequirePackage[
+    a4paper,
+    top=2.5cm,left=2.5cm,bottom=2cm,right=5cm
+]{geometry}
+%    \end{macrocode}
+%
 % \DescribePackage{parskip}
 % To avoid indentation at the start of paragraphs, the \pkg{parskip} package is loaded if the corresponding switch is set to true. See also \autoref{sec:implementation:class-options}.
 % \iffalse
