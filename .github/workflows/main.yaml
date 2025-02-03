@@ -3,14 +3,14 @@ name: Automated testing and building
 on:
   push:
     paths:
-      - rub-archaeologie/*.*
+      - rub-archaeologie/**
     tags-ignore:
       - '**'
   pull_request:
     branches:
       - main
     paths:
-      - rub-archaeologie/*.*
+      - rub-archaeologie/**
   workflow_dispatch:
 
 jobs:
