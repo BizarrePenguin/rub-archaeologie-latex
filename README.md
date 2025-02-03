@@ -12,15 +12,15 @@ Just type
 ```
 to use the class in your LaTeX document.
 
-The full documentation of the latest version can be found on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page in the release assets as `rub-archaeologie.pdf`.
+The full documentation of the latest version can be found on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page in the release assets as [rub-archaeologie.pdf](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.pdf).
 
 ### Installation
 
-If you want to manually install any version of this class, the simplest solution would be to download the `rub-archaeologie.cls` file from the release assets on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page and place it in the same folder as your document.
+If you want to manually install any version of this class, the simplest solution would be to download the [rub-archaeologie.cls](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.cls) file from the release assets on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page and place it in the same folder as your document.
 
-A more advanced manual installation would be to take the `rub-archaeologie.tds.zip`, unpack it and place it in the texmf tree to get a full installation including documentation and example files.
+A more advanced manual installation would be to take the [rub-archaeologie.tds.zip](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.tds.zip), unpack it and place it in the texmf tree to get a full installation including documentation and example files.
 
-Furthermore you can download the `rub-archaeologie-ctan.zip` and run `(pdf)latex` on the `.dtx` and `.ins` files to obtain the derived class file, examples and documentation from the source files.
+Furthermore you can download the [rub-archaeologie-ctan.zip](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-ctan.zip) and run `pdflatex` on the `.dtx` file to obtain the documentation as well as `latex` on the `.ins` file to create the derived class file from the source files.
 
 ## Author and license
 
