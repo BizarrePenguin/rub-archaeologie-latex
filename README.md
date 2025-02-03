@@ -14,6 +14,10 @@ to use the class in your LaTeX document.
 
 The full documentation of the latest version can be found on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page in the release assets as [rub-archaeologie.pdf](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.pdf).
 
+The release assets also include example documents in english and german called [rub-archaeologie-example-en.tex](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-en.tex) and [rub-archaeologie-example-de.tex](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-de.tex) respectively.
+They serve as templates that you can use to start your own projects that use this class such as your next seminar paper.
+You can also get corresponding compiled pdf versions: [rub-archaeologie-example-en.pdf](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-en.pdf) and [rub-archaeologie-example-de.pdf](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-de.pdf).
+
 ### Installation
 
 If you want to manually install any version of this class, the simplest solution would be to download the [rub-archaeologie.cls](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.cls) file from the release assets on the [GitHub release](https://github.com/BizarrePenguin/rub-archaeologie-latex/releases) page and place it in the same folder as your document.
