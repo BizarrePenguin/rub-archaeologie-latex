@@ -24,9 +24,13 @@ jobs:
         uses: actions/checkout@v4
         
       # Run automated testing
+      - name: Testing with l3build
+        run: l3build check
+        working-directory: ./rub-archaeologie
+
       # extract files from dtx
       # and build documentation
-      - name: Run l3build
+      - name: Building with l3build
         run: l3build doc -q -H
         working-directory: ./rub-archaeologie
 
