@@ -1,0 +1,11 @@
+% This test puts some dummy text into the document to test for the document format such as margins, line-spacing, paragraph indentation etc.
+\input{regression-test.tex}
+\documentclass{rub-archaeologie}
+\usepackage[latin]{babel}% Required for lipsum package with luatex
+\usepackage{lipsum}% Used for dummy text
+\begin{document}
+\START
+\showoutput% Put output into the log file for regression testing
+\lipsum% Creates dummy text that is longer than one page
+\vfil\break% Ensures a complete page is produced for \showoutput to take effect
+\end{document}

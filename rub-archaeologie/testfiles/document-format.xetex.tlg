@@ -1,0 +1,1619 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(745.87135+0.0)x382.9741
+.\hbox(0.0+0.0)x0.0
+..\special{pdf:docinfo<</Title()/Subject()/Creator(LaTeX with hyperref)/Author()/Keywords()>>}
+.\vbox(0.0+0.0)x0.0, glue set 39.14185fil
+..\kern 0.0
+..\kern -38.1381
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set 2.14185fil
+...\kern 0.0
+...\kern -1.1381
+...\kern -1.00374
+...\special{pdf:dest (page.1) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(745.87135+0.0)x382.9741
+..\glue -38.1381
+..\vbox(784.00946+0.0)x384.11221, shifted -1.1381
+...\vbox(12.0+0.0)x384.11221, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x384.11221
+.....\hbox(0.0+0.0)x384.11221
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(717.00946+0.0)x384.11221, glue set >20000.0fil
+....\write-{}
+....\special{pdf:majorversion 1}
+....\special{pdf:minorversion 5}
+....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
+....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
+....\write1{\babel@aux{latin}{}}
+....\glue(\topskip) 3.672
+....\hbox(8.328+2.45999)x384.11221, glue set 0.714
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Lorem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ipsum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dolor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 consectetuer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 adipiscing
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit,
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set 0.51465
+.....\TU/lmr/m/n/12 vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 placerat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 adipiscing
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 felis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Curabitur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dictum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 gra-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.36115
+.....\TU/lmr/m/n/12 vida
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mauris.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 arcu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 libero,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nonummy
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 consectetuer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 id,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 vulputate
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.57462
+.....\TU/lmr/m/n/12 a,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 magna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vehicula
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 augue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 neque.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 habitant
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 morbi
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set - 0.19443
+.....\TU/lmr/m/n/12 tristique
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 senectus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 netus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 malesuada
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 fames
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 turpis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 egestas.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Mauris
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+0.25198)x384.11221, glue set - 0.03235
+.....\TU/lmr/m/n/12 leo.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cras
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 viverra
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 metus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 rhoncus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sem.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lectus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 urna
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 frin-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 9.41447
+....\hbox(8.328+2.45999)x384.11221, glue set 0.25417
+.....\TU/lmr/m/n/12 gilla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultrices.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Phasellus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tellus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tortor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 gravida
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 placerat.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Integer
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set - 0.01775
+.....\TU/lmr/m/n/12 sapien
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 est,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 iaculis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 pretium
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quis,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 viverra
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nunc.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Praesent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 6.96648
+....\hbox(8.568+2.31598)x384.11221, glue set 0.10464
+.....\TU/lmr/m/n/12 leo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultrices
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 bibendum.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aenean
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 faucibus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dolor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nulla,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 malesuada
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.23048
+....\hbox(8.448+2.32799)x384.11221, glue set 0.08844
+.....\TU/lmr/m/n/12 pulvinar
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 at,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 mollis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nulla.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Curabitur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 auctor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 semper
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nulla.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 varius
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set 0.2921
+.....\TU/lmr/m/n/12 orci
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 risus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Duis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nibh
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mi,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 congue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 accumsan
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eleifend,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 sagittis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quis,
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 115.07619fil
+.....\TU/lmr/m/n/12 diam.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Duis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 orci
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 orci
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dignissim
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 rutrum.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set 0.5251
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ligula,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 fringilla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 euismod
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sodales,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 sollicitudin
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 wisi.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.44798)x384.11221, glue set 0.50047
+.....\TU/lmr/m/n/12 auctor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lorem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 justo.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 libero,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 pretium
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 at,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 lobortis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ul-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 7.21848
+....\hbox(8.328+2.45999)x384.11221, glue set 0.00754
+.....\TU/lmr/m/n/12 tricies
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 tellus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 aliquet,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 tortor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 accumsan
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 bibendum,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 erat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ligula
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set - 0.52736
+.....\TU/lmr/m/n/12 aliquet
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 magna,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 vitae
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ornare
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 metus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mi.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 orci
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nisl
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hendrerit
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set 0.36049
+.....\TU/lmr/m/n/12 mollis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Suspendisse
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 massa.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cras
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ante.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nulla.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cum
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.45999)x384.11221, glue set 0.13487
+.....\TU/lmr/m/n/12 sociis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 natoque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 penatibus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 magnis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 parturient
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 montes,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nascetur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ridicu-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 6.96648
+....\hbox(8.568+2.32799)x384.11221, glue set 0.69633
+.....\TU/lmr/m/n/12 lus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aliquam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tincidunt
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 urna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ullamcorper
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 turpis.
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.32799)x384.11221, glue set 208.3722fil
+.....\TU/lmr/m/n/12 Pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 cursus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 luctus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mauris.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set - 0.06007
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 malesuada
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 porttitor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 diam.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 erat,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 congue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 volutpat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 at,
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set - 0.47386
+.....\TU/lmr/m/n/12 tincidunt
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tristique,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 libero.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Vivamus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 viverra
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 fermentum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nonum-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set 0.36095
+.....\TU/lmr/m/n/12 my
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ante.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Phasellus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 adipiscing
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 semper
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Proin
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 fermentum
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set 0.24124
+.....\TU/lmr/m/n/12 massa
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quam.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 diam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 turpis,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 molestie
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 placerat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 molestie
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nec,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set 0.05658
+.....\TU/lmr/m/n/12 leo.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Maecenas
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacinia.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ipsum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ligula,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 eleifend
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 at,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 accumsan
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nec,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 susci-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set 0.01723
+.....\TU/lmr/m/n/12 pit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ipsum.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 blandit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ligula
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 feugiat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 magna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nunc
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eleifend
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 consequat
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set 0.28616
+.....\TU/lmr/m/n/12 lorem.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacinia
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tincidunt
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ma-
+.....\glue(\rightskip) 0.0
+....\penalty 100
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.45999)x384.11221, glue set - 0.11348
+.....\TU/lmr/m/n/12 gna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Integer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Praesent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 euismod
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nunc
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 bibendum
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.32799)x384.11221, glue set - 0.73277
+.....\TU/lmr/m/n/12 quam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tellus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nullam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 cursus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pulvinar
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lectus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mi.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vulputate
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.32799)x384.11221, glue set 98.51616fil
+.....\TU/lmr/m/n/12 metus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 massa.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.44798)x384.11221, glue set - 0.55214
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Quisque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ullamcorper
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 placerat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ipsum.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cras
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nibh.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 justo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacus
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.21848
+....\hbox(8.328+2.45999)x384.11221, glue set - 0.41899
+.....\TU/lmr/m/n/12 tincidunt
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultrices.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Lorem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ipsum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dolor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 consectetuer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 adipiscing
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit.
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.38982
+.....\TU/lmr/m/n/12 In
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 habitasse
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 platea
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dictumst.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Integer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tempus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 convallis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 augue.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Etiam
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 6.96648
+....\hbox(8.568+2.32799)x384.11221, glue set - 0.10837
+.....\TU/lmr/m/n/12 facilisis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nunc
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elementum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 fermentum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 wisi.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aenean
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 placerat.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 imperdiet,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set - 0.80188
+.....\TU/lmr/m/n/12 enim
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 gravida
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sollicitudin,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 felis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 placerat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quam,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pulvinar
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.33972
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nunc
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tortor.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Proin
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tempus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nibh
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nisl.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Vivamus
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.32799)x384.11221, glue set 192.30418fil
+.....\TU/lmr/m/n/12 quis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tortor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 risus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 porta
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vehicula.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.31598)x384.11221, glue set 0.62685
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Fusce
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mauris.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 luctus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nibh
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 at
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lectus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 bibendum,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a
+.....\glue(\rightskip) 0.0
+....\glue -2.31598
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 22.02
+...\hbox(7.98+0.0)x384.11221
+....\hbox(7.98+0.0)x384.11221, glue set 189.1161fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/12 1
+.....\glue 0.0 plus 1.0fil
+.\kern 0.0
+Completed box being shipped out [2]
+\vbox(745.87135+0.0)x382.9741
+.\vbox(0.0+0.0)x0.0, glue set 39.14185fil
+..\kern 0.0
+..\kern -38.1381
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set 2.14185fil
+...\kern 0.0
+...\kern -1.1381
+...\kern -1.00374
+...\special{pdf:dest (page.2) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(745.87135+0.0)x382.9741
+..\glue -38.1381
+..\vbox(784.00946+0.0)x384.11221, shifted -1.1381
+...\vbox(12.0+0.0)x384.11221, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x384.11221
+.....\hbox(0.0+0.0)x384.11221
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(717.00946+0.0)x384.11221, glue set 238.3065fil
+....\glue(\topskip) 3.552
+....\hbox(8.448+2.32799)x384.11221, glue set 0.6905
+.....\TU/lmr/m/n/12 faucibus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 semper,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 leo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 velit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultricies
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tellus,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 venenatis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 arcu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 wisi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nisl.
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.09848
+....\hbox(8.568+2.45999)x384.11221, glue set - 0.4862
+.....\TU/lmr/m/n/12 Vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 diam.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aliquam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pellentesque,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 augue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sagittis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 posuere,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 turpis
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set - 0.11763
+.....\TU/lmr/m/n/12 lacus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 congue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quam,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 in
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hendrerit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 risus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eros
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Maecenas
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 erat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set - 0.6921
+.....\TU/lmr/m/n/12 sapien
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 mattis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 porttitor.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Vestibulum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 porttitor.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nulla
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 facilisi.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 turpis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.45999)x384.11221, glue set 0.28311
+.....\TU/lmr/m/n/12 lacus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 commodo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 facilisis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 fringilla,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 wisi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dignissim
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 interdum,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 justo
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.18552
+.....\TU/lmr/m/n/12 lectus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sagittis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vehicula
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 libero
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 cursus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Mauris
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tempor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ligula
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set 0.26738
+.....\TU/lmr/m/n/12 sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Duis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 cursus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 augue.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cras
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 magna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Cras
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nulla.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nulla
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set - 0.62541
+.....\TU/lmr/m/n/12 egestas.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Curabitur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 leo.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Quisque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 egestas
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 wisi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nunc.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Nam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 feugiat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lacus
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+0.25198)x384.11221, glue set 221.44418fil
+.....\TU/lmr/m/n/12 vel
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 est.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Curabitur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 consectetuer.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 9.29448
+....\hbox(8.448+2.32799)x384.11221, glue set - 0.07784
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Suspendisse
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lorem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lorem,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 interdum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 tincidunt
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 lao-
+.....\glue(\rightskip) 0.0
+....\penalty 250
+....\glue(\baselineskip) 7.09848
+....\hbox(8.568+2.32799)x384.11221, glue set - 0.07944
+.....\TU/lmr/m/n/12 reet
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vitae,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 arcu.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aenean
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 faucibus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pede
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ante.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Praesent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 enim
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 rutrum
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.44798)x384.11221, glue set 0.42537
+.....\TU/lmr/m/n/12 at,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 molestie
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nonummy
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nisl.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lectus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eros,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 malesuada
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 amet,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.09848
+....\hbox(8.448+2.45999)x384.11221, glue set 0.17587
+.....\TU/lmr/m/n/12 fermentum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 sodales
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 cursus,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 magna.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Quisque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vehicula,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.20647
+....\hbox(8.328+2.45999)x384.11221, glue set 0.27649
+.....\TU/lmr/m/n/12 urna
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultricies
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 auctor,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 pede
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lorem
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 egestas
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 convallis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 erat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 6.96648
+....\hbox(8.568+2.32799)x384.11221, glue set 0.60318
+.....\TU/lmr/m/n/12 nulla.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 luctus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Curabitur
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nunc.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Aliquam
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dolor
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 commodo
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.45999)x384.11221, glue set 0.6091
+.....\TU/lmr/m/n/12 pretium,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ultricies
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 pharetra
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 velit.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Integer
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 arcu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 est,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nonummy
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 in,
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.45999)x384.11221, glue set 188.74019fil
+.....\TU/lmr/m/n/12 fermentum
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 faucibus,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 egestas
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vel,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 odio.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue(\parskip) 7.25 plus 2.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set 0.4173
+.....\hbox(0.0+0.0)x0.0
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 commodo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 posuere
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pede.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Mauris
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 est.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio.
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+0.25198)x384.11221, glue set 0.3029
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 vehicula
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hendrerit
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sem.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Duis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ut
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 accumsan
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 9.41447
+....\hbox(8.328+2.45999)x384.11221, glue set 0.57494
+.....\TU/lmr/m/n/12 risus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eget
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 In
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hac
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 habitasse
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 platea
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dictumst.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Pellentesque
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 non
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 elit.
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.44798)x384.11221, glue set 0.01375
+.....\TU/lmr/m/n/12 Fusce
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 justo
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 urna
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 porta
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 tincidunt.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Mauris
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 felis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 odio,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 sollicitudin
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sed,
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.328+2.32799)x384.11221, glue set 0.1897
+.....\TU/lmr/m/n/12 volutpat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 a,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 ornare
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 erat.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Morbi
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dolor.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Donec
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 pellentesque,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 erat
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ac
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.33847
+....\hbox(8.328+2.45999)x384.11221, glue set 0.04987
+.....\TU/lmr/m/n/12 sagittis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 semper,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 nunc
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 dui
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 lobortis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 quis
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 congue
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 purus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 metus
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ultricies
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.08647
+....\hbox(8.448+2.32799)x384.11221, glue set 0.29285
+.....\TU/lmr/m/n/12 tellus.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Proin
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 et
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 quam.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Class
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 aptent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 taciti
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sociosqu
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 ad
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 litora
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 torquent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 per
+.....\glue(\rightskip) 0.0
+....\glue(\baselineskip) 7.21848
+....\hbox(8.448+2.44798)x384.11221, glue set - 0.64415
+.....\TU/lmr/m/n/12 conubia
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 nostra,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 per
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 inceptos
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 hymenaeos.
+.....\glue 5.216 plus 5.86798 minus 0.43466
+.....\TU/lmr/m/n/12 Praesent
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 sapien
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 turpis,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 fermentum
+.....\glue(\rightskip) 0.0
+....\penalty 150
+....\glue(\baselineskip) 7.09848
+....\hbox(8.448+2.31598)x384.11221, glue set 177.0762fil
+.....\TU/lmr/m/n/12 vel,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 eleifend
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 faucibus,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 vehicula
+.....\glue 3.912 plus 1.956 minus 1.304
+.....\TU/lmr/m/n/12 eu,
+.....\glue 3.912 plus 2.44499 minus 1.0432
+.....\TU/lmr/m/n/12 lacus.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue 0.0 plus 1.0fil
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 22.02
+...\hbox(7.98+0.0)x384.11221
+....\hbox(7.98+0.0)x384.11221, glue set 189.1161fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/12 2
+.....\glue 0.0 plus 1.0fil
+(document-format.aux)
+Package rerunfilecheck Info: File `document-format.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'document-format.run.xml'.
