@@ -8,7 +8,7 @@ module = "rub-archaeologie"
 checkruns = 2
 
 -- Typeset files
-typesetfiles = { "*.dtx" }
+typesetfiles = { "*.dtx", "*-example*.tex" }
 
 -- CTAN Upload
 uploadconfig = {
