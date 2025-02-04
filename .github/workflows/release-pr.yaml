@@ -24,6 +24,15 @@ jobs:
       # Check out the repository
       - name: Checkout repository
         uses: actions/checkout@v4
+      # Run automated testing
+      - name: Testing with l3build
+        uses: addnab/docker-run-action@v3
+        with:
+          image: registry.gitlab.com/islandoftex/images/texlive:TL2024-2024-05-19-full
+          options: -v ${{ github.workspace }}/rub-archaeologie:/workspace
+          run: |
+            cd /workspace
+            l3build check
       # Set up Git as github-actions bot
       - name: Set up Git
         run: |
@@ -56,9 +65,12 @@ jobs:
           if [ $VERSION_BUMP = "major" ]
           then
             NEW_VERSION_MAJOR=$(($NEW_VERSION_MAJOR + 1))
+            NEW_VERSION_MINOR=0
+            NEW_VERSION_PATCH=0
           elif [ $VERSION_BUMP = "minor" ]
           then
             NEW_VERSION_MINOR=$(($NEW_VERSION_MINOR + 1))
+            NEW_VERSION_PATCH=0
           else
             NEW_VERSION_PATCH=$(($NEW_VERSION_PATCH + 1))
           fi

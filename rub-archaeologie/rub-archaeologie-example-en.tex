@@ -1,0 +1,50 @@
+% File: rub-archaeologie-example-de.tex
+% Copyright (C) 2024 by Joran Schneyer <joran.schneyer@ruhr-uni-bochum.de>
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3c
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   https://www.latex-project.org/lppl.txt
+% and version 1.3c or later is part of all distributions of LaTeX
+% version 2008 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Joran Schneyer <joran.schneyer@ruhr-uni-bochum.de>.
+%
+% This work consists of the files rub-archaeologie.dtx
+%                                 rub-archaeologie.ins
+%                                 rub-archaeologie-example-de.tex
+%                                 rub-archaeologie-example-en.tex
+%           and the derived file  rub-archaeologie.cls
+
+% We start by specifying the document class
+\documentclass{rub-archaeologie}
+
+% We use the "babel" package to set the language of the document to english
+% This is used in many places e.g. for automated word-breaks, language of default section titles such as "table of contents" etc.
+\usepackage[english]{babel}
+% We also need to tell the "hyperref" package to use this language as it was already loaded by the rub-archaeologie class.
+\hypersetup{english=true}
+
+% We then add information for the title page
+\title{Example usage of the \textsf{rub-archaeologie} class}
+\author{Joran Schneyer}
+
+% Here, we start the actual document
+\begin{document}
+    % First, we print the title page
+    \maketitle
+
+    % Next, we show the (automatically generated) table of contents
+    \tableofcontents
+    % and keep the rest of the page empty continuing on the next one
+    \clearpage
+
+    % We start the main content with an introduction
+    \section{Introduction}
+    The \textsf{rub-archaeologie} class aims to implement the guidelines on scientific writing of the Institute for Archaeological Studies at Ruhr University Bochum. This example document serves as a template for users of the class to start their own projects and/or as a reference that complements the full documentation\footnote{The most recent version of the full documentation can be found e.g. on Github: \url{https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie.pdf}.} by providing examples for typical usage while not covering all features and possibilities.
+
+    Alongside this document in english there is also a variant in german, called \texttt{rub-archaeologie-example-de.tex}\footnote{\url{https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-de.tex}} as well as the compiled pdf version \texttt{rub-archaeologie-example-de.pdf}\footnote{\url{https://github.com/BizarrePenguin/rub-archaeologie-latex/releases/latest/download/rub-archaeologie-example-de.pdf}}.
+\end{document}

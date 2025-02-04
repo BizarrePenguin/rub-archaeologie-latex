@@ -17,7 +17,9 @@
 %
 % This work consists of the files rub-archaeologie.dtx
 %                                 rub-archaeologie.ins
-%           and the derived files rub-archaeologie.cls
+%                                 rub-archaeologie-example-de.tex
+%                                 rub-archaeologie-example-en.tex
+%           and the derived file  rub-archaeologie.cls
 %
 % \fi
 
@@ -28,7 +30,7 @@
 %<class>\NeedsTeXFormat{LaTeX2e}[2022-06-01]
 %<class>\ProvidesClass{rub-archaeologie}
 %<*class>
-    [2025-01-30 v0.1.1 RUB Archaeology class]
+    [2025-02-04 v0.2.0 RUB Archaeology class]
 %</class>
 %<*driver>
 \documentclass{ltxdoc}
@@ -55,14 +57,20 @@
 %
 % \DoNotIndex{\newcommand,\newenvironment}
 % \DoNotIndex{\begin,\end}
+% \DoNotIndex{\newif}
 % \DoNotIndex{\fi}
 % \DoNotIndex{\section,\subsection,\subsubsection}
 % \DoNotIndex{\title,\author,\tableofcontents}
 % \DoNotIndex{\LaTeX,\verb}
 % \DoNotIndex{\texorpdfstring}
+% \DoNotIndex{\DeclareKeys}
+% \DoNotIndex{\LoadClass}
+% \DoNotIndex{\PassOptionsToPackage}
+% \DoNotIndex{\ProcessKeyOptions}
 %
 % \DoNotIndex{\@rubarchaeo@biblatexOptions}
 % \DoNotIndex{\@rubarchaeo@parskiptrue}
+% \DoNotIndex{\if@rubarchaeo@parskip}
 %
 %^^A define helper commands for consistent typesetting in the documentation
 % \DeclareDocumentCommand\email{m}{\href{mailto:#1}{\nolinkurl{#1}}}
@@ -94,6 +102,10 @@
 % \begin{sourceverb}
 % \documentclass{rub-archaeologie}
 % \end{sourceverb}
+%
+% You can also find example documents in english and german as part of the release assets on Github\footnote{\url{https://github.com/BizarrePenguin/rub-archaeologie-latex/releases}}.
+% Look for the files named \texttt{rub-archaeologie-example-en.tex} and \texttt{rub-archaelogie-example-de.tex} alongside the corresponding compiled pdf files.
+% These can be used as templates for your own projects, such as your next seminar paper.
 %
 % \StopEventually{}
 %
@@ -249,6 +261,21 @@
 %
 % \subsubsection{Document format}
 %
+% \DescribePackage{geometry}
+% \changes{v0.2.0}{2025-02-04}{Use \pkg{geometry} package for paper size and margins}^^A
+% Used to set page size and margins.
+% The guidelines require margins of 2.5cm at the top and left sides, 2cm at the bottom as well as 5cm on the right side.
+% Furthermore A4 paper is the standard page size here.
+% \iffalse
+%% Set a4 paper size and margins
+% \fi
+%    \begin{macrocode}
+\RequirePackage[
+    a4paper,
+    top=2.5cm,left=2.5cm,bottom=2cm,right=5cm
+]{geometry}
+%    \end{macrocode}
+%
 % \DescribePackage{parskip}
 % To avoid indentation at the start of paragraphs, the \pkg{parskip} package is loaded if the corresponding switch is set to true. See also \autoref{sec:implementation:class-options}.
 % \iffalse
@@ -260,9 +287,20 @@
 \fi
 %    \end{macrocode}
 %
+% \DescribePackage{setspace}
+% \changes{v0.2.0}{2025-02-04}{Add \pkg{setspace} package}^^A
+% To achieve 1.5 times line spacing as required by the guidelines,
+% we simply load the package \pkg{setspace} with the \optn{onehalfspacing} option.
+% \iffalse
+%% Set 1.5 times line spacing
+% \fi
+%    \begin{macrocode}
+\RequirePackage[onehalfspacing]{setspace}
+%    \end{macrocode}
+%
 % \subsubsection{Other useful packages}\label{sec:implementation:package-loading:others}
 %
-\DescribePackage{hyperref}
+% \DescribePackage{hyperref}
 % Makes links and references clickable.
 % \iffalse
 %% Hyperref

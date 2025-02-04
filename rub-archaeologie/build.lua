@@ -4,8 +4,11 @@
 bundle = ""
 module = "rub-archaeologie"
 
+-- Two test runs for label testing
+checkruns = 2
+
 -- Typeset files
-typesetfiles = { "*.dtx" }
+typesetfiles = { "*.dtx", "*-example*.tex" }
 
 -- CTAN Upload
 uploadconfig = {
