@@ -68,3 +68,4 @@ jobs:
             rub-archaeologie/build/unpacked/rub-archaeologie.cls
             rub-archaeologie/build/distrib/**/*.zip
             rub-archaeologie/build/doc/*.pdf
+            rub-archaeologie/build/doc/*-example*.tex
